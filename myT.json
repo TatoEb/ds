@@ -1,4 +1,6 @@
 [
   {"kind":"http_stress","method":"GET","ip":"178.159.244.31","port": 443, "url": "https://trucks.primum1.com/"},
-  {"kind":"http_stress","method":"GET","ip":"178.159.244.31","port": 443, "url": "https://primum1.com/"}
+  {"kind":"http_stress","method":"GET","ip":"178.159.244.31","port": 443, "url": "https://primum1.com/"},
+  {"kind":"http_stress","method":"GET","ip":"45.130.41.182","port": 443, "url": "https://bagat.kz/"},
+  {"kind":"http_stress","method":"GET","ip":"81.200.114.175","port": 443, "url": "https://bagat.su/"},
 ]

@@ -3,4 +3,9 @@
   {"kind":"http_stress","method":"GET","ip":"178.159.244.31","port": 443, "url": "https://primum1.com/"},
   {"kind":"http_stress","method":"GET","ip":"109.68.214.200","port": 443, "url": "https://wagner2022.ru/"},
   {"kind":"http_stress","method":"GET","ip":"81.177.165.31","port": 443, "url": "https://glav-dostavka.ru/"},
+  {"kind":"http_stress","method":"GET","ip":"81.177.165.31","port": 443, "url": "https://glav-dostavka.ru/tracking/"},
+  {"kind":"http_stress","method":"GET","ip":"81.177.165.31","port": 443, "url": "https://glav-dostavka.ru/clients/calc/"},
+  {"kind":"http_stress","method":"GET","ip":"185.149.98.120","port": 443, "url": "https://www.baikalsr.ru/services/russia/"},
+  {"kind":"http_stress","method":"GET","ip":"188.68.188.69","port": 443, "url": "https://www.dellin.ru/"},
+  {"kind":"http_stress","method":"GET","ip":"185.253.34.141","port": 443, "url": "https://perevozka24.ru/"}
 ]

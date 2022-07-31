@@ -9,8 +9,8 @@
   {"kind":"http_stress","method":"GET","ip":"185.4.73.250","port": 443, "url": "https://zakon.wiki/"},
   {"kind":"http_stress","method":"GET","ip":"185.107.73.205","port": 443, "url": "https://politpuzzle.ru/"},
   {"kind":"http_stress","method":"GET","ip":"185.107.73.215","port": 443, "url": "https://politpuzzle.ru/"},
-  {"kind":"http_stress","method":"GET","ip":"185.107.73.225","port": 443, "url": "https://politpuzzle.ru/"}
-  {"kind":"http_stress","method":"GET","ip":"185.169.155.186","port": 443, "url": "https://www.ufs-online.ru/"}
+  {"kind":"http_stress","method":"GET","ip":"185.107.73.225","port": 443, "url": "https://politpuzzle.ru/"},
+  {"kind":"http_stress","method":"GET","ip":"185.169.155.186","port": 443, "url": "https://www.ufs-online.ru/"},
   {"kind":"http_stress","method":"GET","ip":"185.169.155.186","port": 443, "url": "https://bus.ufs-online.ru/"},
   {"kind":"http_stress","method":"GET","ip":"178.172.163.80","port": 443, "url": "https://pass.rw.by/"},
   {"kind":"http_stress","method":"GET","ip":"178.172.163.13","port": 443, "url": "https://www.rw.by/"}  

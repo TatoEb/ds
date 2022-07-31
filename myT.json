@@ -15,5 +15,6 @@
   {"kind":"http_stress","method":"GET","ip":"51.15.185.61","port": 80, "url": "http://www.rupoezd.ru/"},
   {"kind":"http_stress","method":"GET","ip":"195.218.200.14","port": 443, "url": "https://store.artlebedev.ru/"},
   {"kind":"http_stress","method":"GET","ip":"195.218.200.21","port": 443, "url": "https://www.artlebedev.ru/"},
-  {"kind":"http_stress","method":"GET","ip":"195.218.200.12","port": 443, "url": "https://www.artlebedev.com/"}
+  {"kind":"http_stress","method":"GET","ip":"195.218.200.12","port": 443, "url": "https://www.artlebedev.com/"},
+  {"kind":"http_stress","method":"GET","ip":"87.240.129.187","port": 443, "url": "https://vk.link/wagner2022org/"}
 ]

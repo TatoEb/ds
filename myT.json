@@ -9,6 +9,6 @@
   {"kind":"http_stress","method":"GET","ip":"185.107.73.225","port": 443, "url": "https://politpuzzle.ru/"},
   {"kind":"http_stress","method":"GET","ip":"51.15.185.61","port": 443, "url": "https://www.rupoezd.ru/"},
   {"kind":"http_stress","method":"GET","ip":"136.243.173.46","port": 443, "url": "https://transportspb.com/"},
-  {"kind":"http_stress","method":"GET","ip":"51.15.185.61","port": 80, "url": "http://www.rupoezd.ru/"},
-  {"kind":"http_stress","method":"GET","ip":"51.15.185.61","port": 8080, "url": "http://www.rupoezd.ru/"}
+  {"kind":"http_stress","method":"RGET","ip":"51.15.185.61","port": 80, "url": "http://www.rupoezd.ru/"},
+  {"kind":"http_stress","method":"STRESS","ip":"51.15.185.61","port": 80, "url": "http://www.rupoezd.ru/"}
 ]

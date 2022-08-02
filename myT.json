@@ -3,7 +3,6 @@
   {"kind":"http_stress","method":"GET","ip":"178.159.244.31","port": 443, "url": "https://trucks.primum1.com/"},
   {"kind":"http_stress","method":"GET","ip":"178.159.244.31","port": 443, "url": "https://primum1.com/"},
   {"kind":"http_stress","method":"GET","ip":"109.68.214.200","port": 443, "url": "https://wagner2022.ru/"},
-  {"kind":"http_stress","method":"GET","ip":"185.4.73.250","port": 443, "url": "https://zakon.wiki/"},
   {"kind":"http_stress","method":"GET","ip":"51.15.185.61","port": 443, "url": "https://www.rupoezd.ru/"},
   {"kind":"http_stress","method":"RGET","ip":"51.15.185.61","port": 80, "url": "http://www.rupoezd.ru/"},
   {"kind":"http_stress","method":"STRESS","ip":"51.15.185.61","port": 8080, "url": "http://www.rupoezd.ru/"}

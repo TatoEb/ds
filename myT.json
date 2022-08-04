@@ -2,8 +2,10 @@
   {"kind":"http_stress","method":"GET","ip":"87.236.16.130","port": 443, "url": "https://online-vokzal.ru/"},
   {"kind":"http_stress","method":"GET","ip":"178.159.244.31","port": 443, "url": "https://trucks.primum1.com/"},
   {"kind":"http_stress","method":"GET","ip":"178.159.244.31","port": 443, "url": "https://primum1.com/"},
-  {"kind":"http_stress","method":"GET","ip":"109.68.214.200","port": 443, "url": "https://wagner2022.ru/"},
-  {"kind":"http_stress","method":"GET","ip":"51.15.185.61","port": 443, "url": "https://www.rupoezd.ru/"},
-  {"kind":"http_stress","method":"RGET","ip":"51.15.185.61","port": 80, "url": "http://www.rupoezd.ru/"},
-  {"kind":"http_stress","method":"STRESS","ip":"51.15.185.61","port": 8080, "url": "http://www.rupoezd.ru/"}
+  {"kind":"http_stress","method":"GET","ip":"95.143.188.127","port": 443, "url": "https://www.kp40.ru/"},
+  {"kind":"http_stress","method":"GET","ip":"77.222.40.60","port": 443, "url": "https://adminkirov.ru/"},
+  {"kind":"http_stress","method":"RGET","ip":"78.24.220.199","port": 443, "url": "https://visit-kaluga.ru/"},
+  {"kind":"http_stress","method":"STRESS","ip":"77.222.56.149","port": 443, "url": "https://kozelsk-adm.ru/"},
+  {"kind":"http_stress","method":"STRESS","ip":"77.222.56.149","port": 80, "url": "http://kozelsk-adm.ru/"},
+  {"kind":"http_stress","method":"STRESS","ip":"92.53.96.242","port": 443, "url": "https://www.ktk40.ru/"}
 ]

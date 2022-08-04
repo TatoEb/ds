@@ -9,10 +9,11 @@
   {"kind":"http_stress","method":"GET","ip":"95.143.188.127","port": 443, "url": "https://www.kp40.ru/"},
   {"kind":"http_stress","method":"GET","ip":"185.253.181.10","port": 443, "url": "https://31stk.ru/"},
   {"kind":"http_stress","method":"GET","ip":"87.236.19.158","port": 80, "url": "http://internet-belgorod.ru/"},
+  {"kind":"http_stress","method":"GET","ip":"87.236.19.158","port": 8080, "url": "http://internet-belgorod.ru/"},
+  {"kind":"http_stress","method":"GET","ip":"87.236.19.158","port": 443, "url": "https://internet-belgorod.ru/"},
   {"kind":"http_stress","method":"GET","ip":"37.140.192.138","port": 443, "url": "https://inetspace.ru/"},
   {"kind":"http_stress","method":"GET","ip":"194.190.28.4","port": 443, "url": "https://belrts.ru/"},
   {"kind":"http_stress","method":"GET","ip":"212.109.218.234","port": 443, "url": "https://gorod-novoross.ru/"},
-  {"kind":"http_stress","method":"GET","ip":"77.222.40.74","port": 443, "url": "https://sutynews.ru/"},
   {"kind":"http_stress","method":"GET","ip":"87.117.26.124","port": 443, "url": "https://tourism.rostov-gorod.ru/"},
   {"kind":"http_stress","method":"GET","ip":"87.117.26.92","port": 443, "url": "https://rostov-gorod.ru/"},
   {"kind":"http_stress","method":"GET","ip":"89.108.105.30","port": 443, "url": "https://lipetskcity.ru/"}

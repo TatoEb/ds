@@ -1,6 +1,12 @@
 [
   {"kind":"http_stress","method":"GET","ip":"87.236.16.130","port": 443, "url": "https://online-vokzal.ru/"},
   {"kind":"http_stress","method":"GET","ip":"89.208.226.116","port": 443, "url": "https://vokzal.ru/"},
+  {"kind":"http_stress","method":"GET","ip":"188.43.103.252","port": 443, "url": "http://kursky.dzvr.ru/"},
+  {"kind":"http_stress","method":"GET","ip":"95.173.149.135","port": 443, "url": "http://xn----ftbnedad5angewj.xn--p1ai/"},
+  {"kind":"http_stress","method":"GET","ip":"178.248.237.40","port": 443, "url": "https://keaz.ru/"},
+  {"kind":"http_stress","method":"GET","ip":"185.219.43.39","port": 443, "url": "https://www.kurskadmin.ru/"},
+  {"kind":"http_stress","method":"GET","ip":"94.158.194.2","port": 443, "url": "http://kurskduma.ru/"},
+  {"kind":"http_stress","method":"GET","ip":"188.120.237.251","port": 443, "url": "https://autovokzal46.ru/"},
   {"kind":"http_stress","method":"GET","ip":"178.159.244.31","port": 443, "url": "https://trucks.primum1.com/"},
   {"kind":"http_stress","method":"GET","ip":"178.159.244.31","port": 443, "url": "https://primum1.com/"},
   {"kind":"http_stress","method":"GET","ip":"95.143.188.127","port": 443, "url": "https://www.kp40.ru/"},

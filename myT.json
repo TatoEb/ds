@@ -19,5 +19,6 @@
   {"kind":"http_stress","method":"GET","ip":"77.222.40.74","port": 443, "url": "https://sutynews.ru/"},
   {"kind":"http_stress","method":"GET","ip":"87.117.26.124","port": 443, "url": "https://tourism.rostov-gorod.ru/"},
   {"kind":"http_stress","method":"GET","ip":"87.117.26.92","port": 443, "url": "https://rostov-gorod.ru/"},
-  {"kind":"http_stress","method":"GET","ip":"89.108.105.30","port": 443, "url": "https://lipetskcity.ru"}
+  {"kind":"http_stress","method":"GET","ip":"89.108.105.30","port": 443, "url": "https://lipetskcity.ru/"},
+  {"kind":"http_stress","method":"GET","ip":"212.164.138.131","port": 443, "url": "http://www.rzd.ru/"}
 ]

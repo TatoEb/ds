@@ -10,6 +10,6 @@
   {"kind":"http_flood","method":"GET","ip":"178.210.71.107","port": 80, "url": "http://moran-group.org/"},
   {"kind":"http_flood","method":"GET","ip":"46.174.50.8","port": 443, "url": "https://lutercompany.ru/"},
   {"kind":"http_flood","method":"GET","ip":"185.32.58.165","port": 443, "url": "https://obereg124.ru/"},
-  {"kind":"http_flood","method":"GET","ip":"185.68.16.127","port": 443, "url": "http://vegacyltd.com/ru/"},
-  {"kind":"http_flood","method":"GET","ip":"185.68.16.127","port": 80, "url": "http://vegacyltd.com/ru/"}
+  {"kind":"http_flood","method":"GET","ip":"185.68.16.127","port": 80, "url": "http://vegacyltd.com/ru/"},
+  {"kind":"http_flood","method":"GET","ip":"185.68.16.127","port": 443, "url": "https://vegacyltd.com/ru/"}
 ]

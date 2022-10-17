@@ -1,16 +1,4 @@
 [
-  {"kind":"http_flood","method":"GET","ip":"82.146.58.27","port": 443, "url": "https://rsb-group.org/"},
-  {"kind":"http_flood","method":"GET","ip":"82.146.58.27","port": 443, "url": "https://rsb-group.ru/"},
-  {"kind":"http_flood","method":"GET","ip":"82.146.58.27","port": 443, "url": "https://rsb-training.ru/"},
-  {"kind":"http_flood","method":"GET","ip":"185.68.16.127","port": 80, "url": "http://vegacyltd.com/"},
-  {"kind":"http_flood","method":"GET","ip":"185.32.58.165","port": 443, "url": "https://obereg124.ru/"},
-  {"kind":"http_flood","method":"GET","ip":"92.53.114.107","port": 443, "url": "https://peregovorschik.com/"},
-  {"kind":"http_flood","method":"GET","ip":"178.248.234.76","port": 443, "url": "https://zvezdaweekly.ru/"},
-  {"kind":"http_flood","method":"GET","ip":"195.24.68.26","port": 443, "url": "https://www.voentorgmag.ru/"},
-  {"kind":"http_flood","method":"GET","ip":"65.21.137.227","port": 443, "url": "https://voenrus.ru/"},
-  {"kind":"http_flood","method":"GET","ip":"37.140.192.70","port": 443, "url": "https://batalion.shop/"},
-  {"kind":"http_flood","method":"GET","ip":"85.119.149.173","port": 443, "url": "https://voenshop51.ru/ "},
-  {"kind":"http_flood","method":"GET","ip":"89.111.132.174","port": 443, "url": "https://labpps.ru/"},
-  {"kind":"http_flood","method":"GET","ip":"80.87.203.181","port": 443, "url": "https://ratniksafe.ru/"},
-  {"kind":"http_flood","method":"GET","ip":"85.92.118.72","port": 443, "url": "https://rarog.pro/"}
+  {"kind":"http_flood","method":"GET","ip":"84.34.147.35","port": 8080, "url": "http://www.noop.fi/"},
+  {"kind":"http_flood","method":"GET","ip":"84.34.147.35","port": 80, "url": "http://www.noop.fi/"}
 ]

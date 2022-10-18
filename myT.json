@@ -1,4 +1,0 @@
-[
-  {"kind":"http_flood","method":"GET","ip":"84.34.147.35","port": 8080, "url": "http://www.noop.fi/"},
-  {"kind":"http_flood","method":"GET","ip":"84.34.147.35","port": 80, "url": "http://www.noop.fi/"}
-]
